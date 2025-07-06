@@ -1443,7 +1443,7 @@ const CloudVariableBadge = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_1__["FormattedMessage"]
 // eslint-disable-next-line max-len
 , {
-  defaultMessage: "This project uses cloud variables. PenguinMod uses its own cloud variable server independent of Scratch. Beware of impersonation as anyone can change their username to anything. {learnMore}",
+  defaultMessage: "This project uses cloud variables. CattyMod uses its own cloud variable server independent of Scratch. Beware of impersonation as anyone can change their username to anything. {learnMore}",
   id: "tw.cloudVariableBadge",
   values: {
     learnMore: /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
@@ -2384,7 +2384,7 @@ function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) r
 
 
 const PACKAGER_URL = 'https://penguinmod.github.io/PenguinMod-Packager';
-const PACKAGER_ORIGIN = "https://penguinmod.github.io";
+const PACKAGER_ORIGIN = "https://noahscratch493.github.io/cattymod";
 const readBlobAsArrayBuffer = blob => new Promise((resolve, reject) => {
   const fr = new FileReader();
   fr.onload = () => resolve(fr.result);
