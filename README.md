@@ -1,55 +1,50 @@
-# Automate
+# CattyMod
 
-**Automate** is an open-source Scratch mod server program that lets you automate programs and workflows on your PC using custom Scratch extensions. With Automate, your Scratch projects can interact with a wide range of applications and services — all running locally on your computer.
-
----
-
-## What is Automate?
-
-Automate allows you to create and run custom Scratch extensions that communicate with other programs, services, or hardware on your PC. Instead of being limited to just Scratch’s built-in blocks, you can extend Scratch to control and automate many different things — from launching apps, manipulating files, to interacting with web APIs and more.
-
-It’s built on **Scrooch 3**, a flexible Scratch 3 modding framework, which means it’s fully customizable and open for power users to expand.
+CattyMod is a **cool Scratch mod I made** using the powerful Scrooch 3 framework.  
+It lets you customize the Scratch 3 editor with your own style, controls, and extensions — making Scratch way more fun and flexible.
 
 ---
 
-## Features
-
-- Use custom Scratch extensions to control and automate other programs  
-- Automate workflows locally on your PC without relying on cloud services  
-- Open source and free — no subscription or vendor lock-in  
-- Built on Scrooch 3 for deep Scratch 3 customization  
-- Designed for makers, programmers, and automation enthusiasts  
+## Live Demo  
+Try it out here: [noahscratch493.github.io/cattymod/](https://noahscratch493.github.io/cattymod/)
 
 ---
 
-## Live Demo
+## What is CattyMod?
 
-Try out Automate here:  
-[https://noahscratch493.github.io/automate/](https://noahscratch493.github.io/automate/)
+CattyMod is a Scratch mod I built to give you full control over your Scratch 3 editor experience.  
+With CattyMod, you can:
+
+- Make scripts easily  
+- Add cool custom extensions to expand what Scratch can do  
+- Run it on GitHub Pages  
 
 ---
 
 ## Getting Started
 
-1. Go to the live demo and documentation site:  
-   [https://noahscratch493.github.io/automate/](https://noahscratch493.github.io/automate/)
+1. Check out the live demo or host it yourself.  
+2. Open the editor and start making or editing projects like normal.  
+3. Click the **Extensions** button to add or remove extra blocks.  
+4. Use the play, pause, and stop buttons to control your project’s flow.
 
-2. Click the **Code** button to start editing your Scratch project.
+---
 
-3. Use the **Extensions** button to add custom extensions that let you interact with other programs and automate tasks.
+## Why Use CattyMod?
 
-4. Click the **Play ▶️** button to run your project and activate all the blocks that trigger on **when ▶️ clicked** events.
-
-From there, you can build and automate your workflows locally with ease!
+- It’s customizable — you’re not stuck with the default Scratch look or behaviour  
+- You can add powerful extensions that let Scratch interact with the web  
+- It’s free and open source — fork it and make it your own  
+- Built on Scratch 3 with the flexibility of Scrooch 3  
 
 ---
 
 ## Contributing
 
-Contributing is welcome!
+If you want to add features or fix bugs, feel free to fork the repo and send a pull request.
 
 ---
 
 ## License
 
-MIT License — see [LICENSE](LICENSE) for details.
+CattyMod is open source under the MIT License.
