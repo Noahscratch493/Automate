@@ -2383,7 +2383,7 @@ function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) r
 
 
 
-const PACKAGER_URL = 'https://packager.turbowarp.org';
+const PACKAGER_URL = 'https://cattycode.github.io/packager/';
 const PACKAGER_ORIGIN = "https://cattymod.github.io/";
 const readBlobAsArrayBuffer = blob => new Promise((resolve, reject) => {
   const fr = new FileReader();
