@@ -46,8 +46,6 @@ CattyMod supports **many addons** that can expand the editor with new features, 
 1. Go to [CattyMod on GitHub Pages](https://noahscratch493.github.io/cattymod/)  
 2. Start creating a project or open an existing one  
 3. Try exploring the addons and enable what you want to change in the UI
-4. Customize the editor or remix it into your own mod!
-
 ---
 
 ## 🤔 Why Use CattyMod?
