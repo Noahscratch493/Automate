@@ -3101,9 +3101,9 @@ const Footer = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.c
   defaultMessage: "Embedding",
   id: "tw.footer.embed"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("a", {
-  href: "https://docs.turbowarp.org/url-parameters"
+  href: "https://scrooch-project.github.io/ad/build/ad.html?mod=CattyMod"
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement(react_intl__WEBPACK_IMPORTED_MODULE_5__["FormattedMessage"], {
-  defaultMessage: "URL Parameters",
+  defaultMessage: "Built with Scrooch",
   id: "tw.footer.parameters"
 })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_2___default.a.createElement("a", {
   href: "https://noahscratch493.github.io"
