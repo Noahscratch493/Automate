@@ -59,7 +59,7 @@ CattyMod supports **many addons** that can expand the editor with new features, 
 
 ## 🤝 Contributing
 
-Fork the repo, make your changes, and submit a pull request!  
+Fork the repo, make your changes, but don't submit a pull request.  
 New addons, tools, or fixes are always welcome.
 
 ---
